@@ -5,13 +5,13 @@ Este repositorio contiene la solución completa para el **Laboratorio 4: Estruct
 ---
 
 ## Tabla de Contenidos
-- [Descripción del Problema](#-descripción-del-problema)
-- [Arquitectura de Archivos](#-arquitectura-de-archivos)
-- [Requisitos e Instalación](#-requisitos-e-instalación)
-- [Guía de Ejecución](#-guía-de-ejecución)
-- [Visualizaciones Espaciales](#-visualizaciones-espaciales)
-- [Análisis Comparativo y Resultados](#-análisis-comparativo-y-resultados)
-- [Conclusión y Preguntas del Laboratorio](#-conclusión-y-preguntas-del-laboratorio)
+- [Descripción del Problema]
+- [Arquitectura de Archivos]
+- [Requisitos e Instalación]
+- [Guía de Ejecución]
+- [Visualizaciones Espaciales]
+- [Análisis Comparativo y Resultados]
+- [Conclusión y Preguntas del Laboratorio]
 
 ---
 

@@ -113,5 +113,7 @@ Afirmo haber usado la IA de google en su modelo Gemini-3.6-flash única y exclus
 - Afianzar conceptos de creación de gràficas con matplotlib.
 - Acompañamiento y revisión de código en la creación del Quadtree desde 0 sin librerías externas.
 - Comprensión de codificación de mediciones de tiempos mediante la librería time.
+- Acompañamiento en la codificación del benchmark para el análisis de rendimientos.
+Me hago completamente responsable del código aquí contenido y expreso que tengo conocimiento completo de todo lo que el repositorio alberga.
 
 ```
